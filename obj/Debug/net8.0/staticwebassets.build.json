@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2/iBhHh0j2jVE5igEONmglnkxdhcf6RBTp/iU0d4jls=",
+  "Source": "invenio",
+  "BasePath": "_content/invenio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
